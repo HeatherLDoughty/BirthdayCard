@@ -1,5 +1,5 @@
 /****************************************/
-/***shim animation frame (paul irish)***/
+/***shim animation frame***/
 /**************************************/
 (function() {
     var lastTime = 0;
