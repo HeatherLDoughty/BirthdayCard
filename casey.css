@@ -1,0 +1,143 @@
+#upDraft{ 
+position: absolute; 
+left: 10px; 
+top:300px;
+}
+
+#hinthint{
+font-family: verdana, sans-serif;
+color: #8800FF;
+font-size: 12px;
+font-weight: bold;
+}
+
+.cake{
+float:left;
+}
+
+.preload{
+position: absolute;
+left: -100px; 
+top:-193px;
+}
+
+.flyLeft {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph; /*IE*/
+    filter: fliph; /*IE*/
+}
+
+
+.flyUpsideDown {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    -ms-filter: flipv; /*IE*/
+    filter: flipv; /*IE*/
+}
+
+
+.loop1{
+  -webkit-transform: rotate(-26.6deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-26.6deg);  /* FF3.5+ */
+      -ms-transform: rotate(-26.6deg);  /* IE9 */
+       -o-transform: rotate(-26.6deg);  /* Opera 10.5 */
+          transform: rotate(-26.6deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=0.8941542368393681, M12=0.4477590878387697, M21=-0.4477590878387697, M22=0.8941542368393681, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop2{
+  -webkit-transform: rotate(-45deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-45deg);  /* FF3.5+ */
+      -ms-transform: rotate(-45deg);  /* IE9 */
+       -o-transform: rotate(-45deg);  /* Opera 10.5 */
+          transform: rotate(-45deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=0.7071067811865476, M12=0.7071067811865475, M21=-0.7071067811865475, M22=0.7071067811865476, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop3 {
+  -webkit-transform: rotate(-63.4deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-63.4deg);  /* FF3.5+ */
+      -ms-transform: rotate(-63.4deg);  /* IE9 */
+       -o-transform: rotate(-63.4deg);  /* Opera 10.5 */
+          transform: rotate(-63.4deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=0.4477590878387697, M12=0.8941542368393681, M21=-0.8941542368393681, M22=0.4477590878387697, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop4 {
+  -webkit-transform: rotate(-116.4deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-116.4deg);  /* FF3.5+ */
+      -ms-transform: rotate(-116.4deg);  /* IE9 */
+       -o-transform: rotate(-116.4deg);  /* Opera 10.5 */
+          transform: rotate(-116.4deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=-0.4446351791849276, M12=0.8957117602394128, M21=-0.8957117602394128, M22=-0.4446351791849276, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop5 {
+  -webkit-transform: rotate(-180deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-180deg);  /* FF3.5+ */
+      -ms-transform: rotate(-180deg);  /* IE9 */
+       -o-transform: rotate(-180deg);  /* Opera 10.5 */
+          transform: rotate(-180deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=-1, M12=1.2246063538223773e-16, M21=-1.2246063538223773e-16, M22=-1, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop6{
+  -webkit-transform: rotate(-206deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-206deg);  /* FF3.5+ */
+      -ms-transform: rotate(-206deg);  /* IE9 */
+       -o-transform: rotate(-206deg);  /* Opera 10.5 */
+          transform: rotate(-206deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=-0.8987940462991671, M12=-0.43837114678907707, M21=0.43837114678907707, M22=-0.8987940462991671, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop7{
+  -webkit-transform: rotate(-244deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-244deg);  /* FF3.5+ */
+      -ms-transform: rotate(-244deg);  /* IE9 */
+       -o-transform: rotate(-244deg);  /* Opera 10.5 */
+          transform: rotate(-244deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=-0.43837114678907774, M12=-0.8987940462991668, M21=0.8987940462991668, M22=-0.43837114678907774, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop8{
+  -webkit-transform: rotate(-297.6deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-297.6deg);  /* FF3.5+ */
+      -ms-transform: rotate(-297.6deg);  /* IE9 */
+       -o-transform: rotate(-297.6deg);  /* Opera 10.5 */
+          transform: rotate(-297.6deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=0.4632960351198618, M12=-0.8862035792312147, M21=0.8862035792312147, M22=0.4632960351198618, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+.loop9{
+  -webkit-transform: rotate(-334.4deg);  /* Saf3.1+, Chrome */
+     -moz-transform: rotate(-334.4deg);  /* FF3.5+ */
+      -ms-transform: rotate(-334.4deg);  /* IE9 */
+       -o-transform: rotate(-334.4deg);  /* Opera 10.5 */
+          transform: rotate(-334.4deg);
+             filter: progid:DXImageTransform.Microsoft.Matrix(/* IE6–IE9 */
+                     M11=0.9018325264051138, M12=-0.43208574880198225, M21=0.43208574880198225, M22=0.9018325264051138, sizingMethod='auto expand');
+               zoom: 1;
+}
+
+
